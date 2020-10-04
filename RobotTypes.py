@@ -1,0 +1,1 @@
+types = [('UNIPEDAL', "(◕‿◕✿)"), ('BIPEDAL', "'''⌐(ಠ۾ಠ)¬'''"), ('QUADRUPEDAL', "╚(ಠ_ಠ)=┐"), ('ARACHNID', "( ఠൠఠ )"), ('RADIAL', "♪~ ᕕ(ᐛ)ᕗ"), ('AERONAUTICAL', "( ಠ ͜ʖರೃ)")]
